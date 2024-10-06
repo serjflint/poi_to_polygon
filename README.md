@@ -1,3 +1,4 @@
+```bash
 # On macOS and Linux.
 $ curl -LsSf https://astral.sh/uv/install.sh | sh
 
@@ -9,3 +10,4 @@ $ pip install uv
 
 uv sync
 uv run poi_to_polygon.py --help
+```
